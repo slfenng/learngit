@@ -6,4 +6,4 @@ Git is 3.
 6
 ####
 7
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
